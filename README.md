@@ -7,7 +7,7 @@ This is a pytorch implementation for paper [DCFP](https://ieeexplore.ieee.org/ab
 ### 1.Requirements
 
 - Python==3.8.12
-- **Pytorch==1.10.0** (Important)
+- Pytorch==1.10.0
 - CUDA==11.3
 
 ```bash
